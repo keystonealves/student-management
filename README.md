@@ -1,5 +1,5 @@
 # Student Registration Management PROJECT
-A simple React app for student registration management (front and back-end), Forms, CRUD and state management.
+A simple React app for student registration management (front and back-end), Forms, Glassmorphism, CRUD, state management and many others functions.
 
 Use in this project: <br>
 > <b>React</b> - For base project.<br>
@@ -13,6 +13,6 @@ Use in this project: <br>
 > <b>Redux-persist</b> - For save the Redux store in persistent storage.<br>
 > <b>Loading components.</b><br>
 > <b>Auth modules.</b><br>
-  <br><br>
-
+  <br><br>  
 And many other tools...
+<br><br> 
