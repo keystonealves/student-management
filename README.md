@@ -1,5 +1,5 @@
 # Student Registration Management PROJECT
-A simple React app for student registration management (front and back-end).
+A simple React app for student registration management (front and back-end), Forms, CRUD and state management.
 
 Use in this project: <br>
 > <b>React</b> - For base project.<br>
