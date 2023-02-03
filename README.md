@@ -16,3 +16,7 @@ Use in this project: <br>
   <br><br>  
 And many other tools...
 <br><br> 
+![alt text](https://github.com/keystonealves/student-management/blob/main/login_screen.png)<br>
+![alt text](https://github.com/keystonealves/student-management/blob/main/home_screen_and_toast_messages.png)<br>
+![alt text](https://github.com/keystonealves/student-management/blob/main/loading_state.png)<br>
+
